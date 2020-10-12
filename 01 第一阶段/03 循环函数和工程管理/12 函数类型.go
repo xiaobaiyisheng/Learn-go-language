@@ -26,4 +26,6 @@ func main() {
 
 	f2 := test1202
 	f2(1, 2)
+
+	//fmt.Println(test1203(1, 2, 3))
 }
